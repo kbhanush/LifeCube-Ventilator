@@ -5,7 +5,7 @@ The LifeCube emergency ventilator is an emergency use respiratory device that ca
 
 Device operates on regular AC power 110 / 220V 3-Pin outlets.
 
-All ventilator parameters can be controlled via a mobile app that can be connected to the device over bluetooth. WiFi is not required to operate the device. The idea is to put the controls in the hands of the patients since breathing generally varies and patient can tweak the breathing cycle per their comfort. Note that the initial setup of pressure and volume should be done by a physician or in consultation with one. Incorrect pressure and volume setting can cause irrervisble lung damage!
+All ventilator parameters can be controlled via a mobile app that can be connected to the device over bluetooth. WiFi is not required to operate the device. The idea is to put the controls in the hands of the patient since breathing generally varies and patient can tweak the breathing cycle per their comfort. Absense of physical controls on the device also make it tamper proof or erroneous changes. Note that the initial setup of pressure and volume should be done by a physician or in consultation with one. Incorrect pressure and volume setting can cause irrervisble lung damage!
 
 
 The .svg files in this repository were used to Laser cut all parts used to build the ventilator. You may use these to laser cut or handcut each piece using 1/4" think acrylic or 1/2" thick plywood.
@@ -18,6 +18,6 @@ Bluetooth module used is DSD-Tech HC-05 which works with Andriod only. I am tryi
 
 Mobile app is built using the Ionic framework and therefore a single codebase can be used to generate compiled binaries for both Andriod and iOS. App is currently available in the andriod store.
 
-You may also need a pressure guage for calibration since that would vary with the type of bag used. 
+You may also need a pressure guage for calibration since that would vary with the type of bag used. I used a simple hand-held pressure guage I ordered from Amazon for $30.
 
 
