@@ -1,5 +1,5 @@
 # LifeCube-Ventilator
-Open Source emergency use Ventilator
+Open Source Oxygenator and Ventilator
 
 The LifeCube oxygenator and  ventilator is an emergency use respiratory device that can be assembled by anyone with basic computer hardware and software skills. It is designed to assist people with respiratory illnesses to breathe better. It can function as a CPAP in O2 mode by pumping air/O2 in a hyperbaric hood/chamber. In the ventilator mode it can function as a volume/pressure ventilator in controlled mode only i.e. the breathing cycles, once configured, are ventilator induced. Patient cannot initiate a breathing cycle.  It can be configured to deliver a preset pressure cycle, preset volume and respiration rate. A PEEP control valve placed on the resuscitator bag (aka ambu bag) can be used to retain the required Positive Expiratory Pressure. Some resuscitator bags also include an inlet tube for supplementary oxygen or nebulization and are recommended to aid in sufficient oxygenation of patients
 
